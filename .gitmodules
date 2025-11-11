@@ -1,6 +1,8 @@
 [submodule "booleanAlgebra"]
 	path = booleanAlgebra
 	url = git@github.com:AdvaySingh1/booleanAlgebra.git
+	branch = main
 [submodule "ASICPlacement"]
 	path = ASICPlacement
 	url = git@github.com:AdvaySingh1/ASICPlacement.git
+	branch = main
