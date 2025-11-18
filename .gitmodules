@@ -6,3 +6,6 @@
 	path = ASICPlacement
 	url = git@github.com:AdvaySingh1/ASICPlacement.git
 	branch = main
+[submodule "ASICRouting"]
+	path = ASICRouting
+	url = git@github.com:AdvaySingh1/ASICRouting.git
